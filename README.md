@@ -6,9 +6,6 @@
 - [INTERSECTION TESTS IN 2D](https://noonat.github.io/intersect/)
 
 
-
+## Computer Graphics
 - [OpenGL (CISC/CMPE 454 - Schedule & Notes)](http://watkins.cs.queensu.ca/~jstewart/454/schedule.html)
-
-
-
 - [Computer Graphics & Imaging (berkeley.edu)](https://cs184.eecs.berkeley.edu/sp22) | [alt link](https://cs184.eecs.berkeley.edu/sp19)
